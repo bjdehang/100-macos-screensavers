@@ -12,7 +12,7 @@
 
 ## ColorClockSaver
 
-[👌Download](./screensaver/ColorClockSaver.saver.zip)
+[👌Download](.../screensaver/ColorClockSaver.saver.zip)
 
 [🧑🏻‍💻Code](https://github.com/edwardloveall/colorclocksaver)
 
@@ -22,7 +22,7 @@
 
 ## ScreenMazer
 
-[👌Download](./screensaver/ScreenMazer.zip)
+[👌Download](.../screensaver/ScreenMazer.zip)
 
 [🧑🏻‍💻Source Code](https://github.com/dado3212/screenmazer)
 
@@ -33,7 +33,7 @@
 
 ## Evangelion Clock Screensaver
 
-[👌Download](./screensaver/Evangelion-Clock-1.1.1.saver.zip)
+[👌Download](.../screensaver/Evangelion-Clock-1.1.1.saver.zip)
 
 [🧑🏻‍💻Source Code](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/)
 
