@@ -1,0 +1,21 @@
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "8KQ-B8-HJy"; */
+"8KQ-B8-HJy.title" = "確定";
+
+/* Class = "NSButtonCell"; title = "Show Second"; ObjectID = "GW3-Z2-7fB"; */
+"GW3-Z2-7fB.title" = "是否顯示「秒」";
+
+/* Class = "NSButtonCell"; title = "Dark"; ObjectID = "LSK-EV-84R"; */
+"LSK-EV-84R.title" = "黑色模式";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Window";
+
+/* Class = "NSButtonCell"; title = "Light"; ObjectID = "YSy-Ek-C10"; */
+"YSy-Ek-C10.title" = "白色模式";
+
+/* Class = "NSTextFieldCell"; title = "Second"; ObjectID = "bVt-N6-gYY"; */
+"bVt-N6-gYY.title" = "秒選項";
+
+/* Class = "NSTextFieldCell"; title = "Theme"; ObjectID = "bb0-pS-jHe"; */
+"bb0-pS-jHe.title" = "主題設置";
